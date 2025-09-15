@@ -17,7 +17,6 @@ These indicators were identified through **pivot-based infrastructure analysis**
 
 ## 📂 Indicators
 
-- `indicators/suspected_c2_ipv4.csv` — Clean CSV list (IP, ASN, Notes)
 - `indicators/suspected_c2_ipv4.txt` — Plain text list
 
 ---
